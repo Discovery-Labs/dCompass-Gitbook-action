@@ -1,0 +1,33 @@
+{
+  "definitions": {
+    "basicProfile": "kjzl6cwe1jw145cjbeko9kil8g9bxszjhyde21ob8epxuxkaon1izyqsu8wgcic",
+    "cryptoAccounts": "kjzl6cwe1jw149z4rvwzi56mjjukafta30kojzktd9dsrgqdgz4wlnceu59f95f",
+    "alsoKnownAs": "kjzl6cwe1jw146zfmqa10a5x1vry6au3t362p44uttz4l0k4hi88o41zplhmxnf",
+    "@dCompass/contributors": "kjzl6cwe1jw147vvqkwroik2b4kyjvvi11mqexd7sgdrrdccchu8q2jkic9qfkf",
+    "@dCompass/appprojects": "kjzl6cwe1jw1478csbx28fp3suazon35zjwbfrh15h8er0rtfv6xvh3vxx6dj40",
+    "@dCompass/projects": "kjzl6cwe1jw149xhdv2beqjh4oavvqb9hjuwgyxi3d34wdwpg83hmzl2fx4uno6",
+    "@dCompass/project": "kjzl6cwe1jw14a1tmh7ipaksrwwg5imp1tsk2zizbnh9dhodo9q8ti5bnzb6m0g",
+    "@dCompass/courses": "kjzl6cwe1jw148s8oosj1182kb8caervl063gdcbll3okwaxitfdxjfpw81zajy",
+    "@dCompass/course": "kjzl6cwe1jw147hwmlm7d4qjud70mgf19ua6sidl0m4ba32k5k7s2yio0sha9bh",
+    "@dCompass/quests": "kjzl6cwe1jw149z4izqr3nac2gu8ru9krgs7yua4exz0x9pil06k2s5o368ov2e",
+    "@dCompass/quest": "kjzl6cwe1jw146hrz3s95rixknyskous34qmjtqmymcf9tyw5ylo7uwnv5lcmri",
+    "@dCompass/tags": "kjzl6cwe1jw14ab2bwyypr2y50z11xu4zafgtfrwh21w2pl8lrvnrdkq7xm1frg",
+    "@dCompass/tag": "kjzl6cwe1jw149jietry5s7hgzftmrcjev023if5aqcql22usfjk4wje6hrslxq"
+  },
+  "schemas": {
+    "BasicProfile": "ceramic://k3y52l7qbv1frxt706gqfzmq6cbqdkptzk8uudaryhlkf6ly9vx21hqu4r6k1jqio",
+    "CryptoAccounts": "ceramic://k3y52l7qbv1frypussjburqg4fykyyycfu0p9znc75lv2t5cg4xaslhagkd7h7mkg",
+    "AlsoKnownAs": "ceramic://k3y52l7qbv1fryojt8n8cw2k04p9wp67ly59iwqs65dejso566fij5wsdrb871yio",
+    "Contributors": "ceramic://k3y52l7qbv1fryque21w8uzdp0h45p9ffmmogerl4qlagwm2i3poglv4boecrq29s",
+    "AppProjects": "ceramic://k3y52l7qbv1fry642kwj6xwy79su9f86d0nvflhmh9ezu7u47wekyzhikwfhdzaww",
+    "Projects": "ceramic://k3y52l7qbv1fry6xd5nz7ydksjduimbe0blv0s3lu2z9yo86j0m8iazu7aua76kn4",
+    "Project": "ceramic://k3y52l7qbv1fry5kfrf5hw8r258t2psr3yp3bvzomlmeus2giz7tx5gljq1h27h1c",
+    "courses": "ceramic://k3y52l7qbv1frxiq6fl3225vvgw2y3zl5u7y05c3nvumb6m2qcc57ur1bekfx9a80",
+    "course": "ceramic://k3y52l7qbv1fry7lzj154tff1q45mcq7xpm65m5kbqd4tc082j2pxo6wyiim985xc",
+    "quests": "ceramic://k3y52l7qbv1fry7h1miaxtu68ir7h76chj4fi31uofl07gjvq8zhqu05knff1rk00",
+    "quest": "ceramic://k3y52l7qbv1fryqvay7mjinf0y531eh2us9bazfvk8lsfuvxlubszjky12s47aby8",
+    "Tags": "ceramic://k3y52l7qbv1frxwfwd70aaurjqayd879dxjzl8bggn71hv50gtsq4o8bvjedkfi0w",
+    "Tag": "ceramic://k3y52l7qbv1frylc6kpbsj4amfpraqfespso95o1tqwlvu4eq3o2b9j0dxc9aptkw"
+  },
+  "tiles": {}
+}
