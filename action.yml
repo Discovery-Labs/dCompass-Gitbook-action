@@ -1,5 +1,5 @@
-name: "Knowsis Upload Course Action"
-description: "Deploy the lesson through Web3 & NFT Storage"
+name: "upload-files-to-web3-storage"
+description: "Deploy all the files through Web3 Storage"
 runs:
   using: "docker"
   image: "Dockerfile"
