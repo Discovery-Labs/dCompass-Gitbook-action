@@ -1,0 +1,21 @@
+name: "Gitbook Action Build"
+on:
+  push:
+    branches:
+      - main # trigger branch
+  pull_request:
+    branches:
+      - main # trigger branch
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout action
+        uses: actions/checkout@v2
+      - name: upload-files-to-web3-storage
+        uses: Discovery-Labs/dCompass-Gitbook-action@v0.0.1-alpha
+        env:
+          DID_KEY: ${{ secrets.DID_KEY }}
+          WEB3STORAGE_TOKEN: ${{ secrets.WEB3STORAGE_TOKEN }}
+          CERAMIC_NODE_API_URL: ${{ secrets.CERAMIC_NODE_API_URL }}
+          DCOMPASS_PROJECT_ID: ${{ secrets.DCOMPASS_PROJECT_ID }}
